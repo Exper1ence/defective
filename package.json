@@ -1,0 +1,8 @@
+{
+  "name": "defective",
+  "version": "0.0.1",
+  "main": "defective.js",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
