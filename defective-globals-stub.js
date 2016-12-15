@@ -26,11 +26,15 @@ function it(behavior, spec) {
  * @returns {Object}
  */
 function expect(expression) {
+    return {
+        /**
+         * Loads a module.
+         * See <a href="http://nodejs.org/api/modules.html">http://nodejs.org/api/modules.html</a> for more information.
+         * @param {*} expectation
+         */
+        toBe(expectation){
+            
+        }
+    }
 }
-/**
- * Loads a module.
- * See <a href="http://nodejs.org/api/modules.html">http://nodejs.org/api/modules.html</a> for more information.
- * @param {*} expectation
- */
-function toBe(expectation) {
-}
+
