@@ -1,2 +1,2 @@
-# defective
+# perfection
 Javascript test framework.

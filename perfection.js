@@ -1,7 +1,7 @@
 /**
  * Created by Exper1ence on 2016/12/14.
  */
-require('./defective-globals-stub');
+require('./perfection-globals-stub');
 const _ = require('lodash');
 const vm = require('vm');
 const fs = require('fs');

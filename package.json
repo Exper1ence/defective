@@ -1,7 +1,7 @@
 {
-  "name": "defective",
+  "name": "perfection",
   "version": "0.0.1",
-  "main": "defective.js",
+  "main": "perfection.js",
   "dependencies": {
     "chalk": "^1.1.3",
     "lodash": "^4.17.2"
