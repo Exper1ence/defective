@@ -4,9 +4,10 @@
   "main": "perfection.js",
   "dependencies": {
     "chalk": "^1.1.3",
+    "commander": "^2.9.0",
     "lodash": "^4.17.2"
   },
-  "bin":{
-    "perfection":"perfection.js"
+  "bin": {
+    "perfection": "bin/perfection-cli.js"
   }
 }
