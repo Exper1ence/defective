@@ -1,6 +1,6 @@
 {
   "name": "mengbi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "mengbi.js",
   "dependencies": {
     "chalk": "^1.1.3",
