@@ -1,13 +1,13 @@
 {
-  "name": "perfection",
-  "version": "0.0.2",
-  "main": "perfection.js",
+  "name": "mengbi",
+  "version": "0.0.3",
+  "main": "mengbi.js",
   "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0",
     "lodash": "^4.17.2"
   },
   "bin": {
-    "perfection": "bin/perfection-cli.js"
+    "mengbi": "bin/mengbi-cli.js"
   }
 }
